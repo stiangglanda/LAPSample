@@ -6,6 +6,7 @@
 
 ### 🌍 Database
 - [x] Install [MariaDB](https://mariadb.org/download/?t=mariadb&p=mariadb)
+- [x] Install [Xampp](https://www.apachefriends.org/download.html)
 
 ## vorlage_php
 ![alt text](https://github.com/stiangglanda/LAPSample/blob/main/documentation/vorlage.png)
